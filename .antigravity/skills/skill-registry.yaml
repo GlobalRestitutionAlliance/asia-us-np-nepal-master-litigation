@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nepalan-restitution-roadmap-and-qsf-trust-execution
-  name: Nepalan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/nepalan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_np_001
+    name: Nepal Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_002
+    name: Nepal Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_003
+    name: Nepal Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_004
+    name: Nepal Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_005
+    name: Nepal Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_006
+    name: Nepal Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_007
+    name: Nepal Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_008
+    name: Nepal Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_009
+    name: Nepal Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_010
+    name: Nepal Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_011
+    name: Nepal Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_012
+    name: Nepal Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_013
+    name: Nepal Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_014
+    name: Nepal Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_015
+    name: Nepal Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_016
+    name: Nepal Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_017
+    name: Nepal Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_018
+    name: Nepal Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_019
+    name: Nepal Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_020
+    name: Nepal Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_021
+    name: Nepal Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_022
+    name: Nepal Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_023
+    name: Nepal Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_024
+    name: Nepal Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_025
+    name: Nepal Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_026
+    name: Nepal Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_027
+    name: Nepal Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_028
+    name: Nepal Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_029
+    name: Nepal Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_030
+    name: Nepal Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_031
+    name: Nepal Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_032
+    name: Nepal Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_033
+    name: Nepal Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_034
+    name: Nepal Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_035
+    name: Nepal Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_036
+    name: Nepal Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_037
+    name: Nepal Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_038
+    name: Nepal Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_039
+    name: Nepal Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_040
+    name: Nepal Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_041
+    name: Nepal Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_042
+    name: Nepal Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_043
+    name: Nepal Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_044
+    name: Nepal Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_045
+    name: Nepal Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_046
+    name: Nepal Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_047
+    name: Nepal Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_048
+    name: Nepal Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_049
+    name: Nepal Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_050
+    name: Nepal Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_051
+    name: Nepal Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_052
+    name: Nepal Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_053
+    name: Nepal Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_054
+    name: Nepal Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_055
+    name: Nepal Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_056
+    name: Nepal Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_057
+    name: Nepal Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_058
+    name: Nepal Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_059
+    name: Nepal Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_060
+    name: Nepal Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_061
+    name: Nepal Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_062
+    name: Nepal Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_063
+    name: Nepal Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_064
+    name: Nepal Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_065
+    name: Nepal Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_066
+    name: Nepal Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_067
+    name: Nepal Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_068
+    name: Nepal Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_069
+    name: Nepal Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_070
+    name: Nepal Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_071
+    name: Nepal Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_072
+    name: Nepal Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_073
+    name: Nepal Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_074
+    name: Nepal Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_075
+    name: Nepal Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_076
+    name: Nepal Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_077
+    name: Nepal Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_078
+    name: Nepal Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_079
+    name: Nepal Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_080
+    name: Nepal Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_081
+    name: Nepal Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_082
+    name: Nepal Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_083
+    name: Nepal Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_084
+    name: Nepal Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_085
+    name: Nepal Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_086
+    name: Nepal Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_087
+    name: Nepal Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_088
+    name: Nepal Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_089
+    name: Nepal Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_090
+    name: Nepal Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_091
+    name: Nepal Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_092
+    name: Nepal Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_093
+    name: Nepal Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_094
+    name: Nepal Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_095
+    name: Nepal Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_096
+    name: Nepal Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_097
+    name: Nepal Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_098
+    name: Nepal Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_099
+    name: Nepal Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_100
+    name: Nepal Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_101
+    name: Nepal Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_102
+    name: Nepal Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_103
+    name: Nepal Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_104
+    name: Nepal Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_105
+    name: Nepal Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_106
+    name: Nepal Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_107
+    name: Nepal Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_108
+    name: Nepal Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_109
+    name: Nepal Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_110
+    name: Nepal Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_111
+    name: Nepal Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_112
+    name: Nepal Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_113
+    name: Nepal Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_114
+    name: Nepal Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_115
+    name: Nepal Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_116
+    name: Nepal Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_117
+    name: Nepal Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_118
+    name: Nepal Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_119
+    name: Nepal Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_120
+    name: Nepal Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_121
+    name: Nepal Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_122
+    name: Nepal Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_123
+    name: Nepal Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_124
+    name: Nepal Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_125
+    name: Nepal Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_126
+    name: Nepal Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_127
+    name: Nepal Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_128
+    name: Nepal Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_129
+    name: Nepal Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_130
+    name: Nepal Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_131
+    name: Nepal Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_132
+    name: Nepal Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_133
+    name: Nepal Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_134
+    name: Nepal Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_135
+    name: Nepal Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_136
+    name: Nepal Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_137
+    name: Nepal Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_138
+    name: Nepal Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_139
+    name: Nepal Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_140
+    name: Nepal Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_141
+    name: Nepal Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_142
+    name: Nepal Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_143
+    name: Nepal Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_144
+    name: Nepal Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_145
+    name: Nepal Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_146
+    name: Nepal Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_147
+    name: Nepal Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_148
+    name: Nepal Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_149
+    name: Nepal Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_150
+    name: Nepal Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_151
+    name: Nepal Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_152
+    name: Nepal Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_153
+    name: Nepal Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_154
+    name: Nepal Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_155
+    name: Nepal Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_156
+    name: Nepal Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_157
+    name: Nepal Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_158
+    name: Nepal Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_159
+    name: Nepal Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_160
+    name: Nepal Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_161
+    name: Nepal Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_162
+    name: Nepal Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_163
+    name: Nepal Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_164
+    name: Nepal Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_165
+    name: Nepal Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_166
+    name: Nepal Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_167
+    name: Nepal Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_168
+    name: Nepal Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_169
+    name: Nepal Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_170
+    name: Nepal Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_171
+    name: Nepal Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_172
+    name: Nepal Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_173
+    name: Nepal Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_174
+    name: Nepal Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_175
+    name: Nepal Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_176
+    name: Nepal Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_177
+    name: Nepal Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_178
+    name: Nepal Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_179
+    name: Nepal Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_180
+    name: Nepal Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_181
+    name: Nepal Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_182
+    name: Nepal Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_183
+    name: Nepal Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_184
+    name: Nepal Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_185
+    name: Nepal Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_186
+    name: Nepal Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_187
+    name: Nepal Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_188
+    name: Nepal Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_189
+    name: Nepal Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_190
+    name: Nepal Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_191
+    name: Nepal Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_192
+    name: Nepal Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_193
+    name: Nepal Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_194
+    name: Nepal Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_195
+    name: Nepal Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_196
+    name: Nepal Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_197
+    name: Nepal Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_198
+    name: Nepal Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_199
+    name: Nepal Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_200
+    name: Nepal Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_201
+    name: Nepal Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_202
+    name: Nepal Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_203
+    name: Nepal Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_204
+    name: Nepal Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_205
+    name: Nepal Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_206
+    name: Nepal Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_207
+    name: Nepal Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_208
+    name: Nepal Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_209
+    name: Nepal Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_210
+    name: Nepal Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_211
+    name: Nepal Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_212
+    name: Nepal Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_213
+    name: Nepal Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_214
+    name: Nepal Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_215
+    name: Nepal Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_216
+    name: Nepal Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_217
+    name: Nepal Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_218
+    name: Nepal Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_219
+    name: Nepal Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_220
+    name: Nepal Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_221
+    name: Nepal Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_222
+    name: Nepal Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_223
+    name: Nepal Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_224
+    name: Nepal Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_225
+    name: Nepal Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_226
+    name: Nepal Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_227
+    name: Nepal Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_228
+    name: Nepal Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_229
+    name: Nepal Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_230
+    name: Nepal Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_231
+    name: Nepal Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_232
+    name: Nepal Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_233
+    name: Nepal Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_234
+    name: Nepal Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_235
+    name: Nepal Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_236
+    name: Nepal Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_237
+    name: Nepal Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_238
+    name: Nepal Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_239
+    name: Nepal Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_240
+    name: Nepal Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_241
+    name: Nepal Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_242
+    name: Nepal Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_243
+    name: Nepal Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_244
+    name: Nepal Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_245
+    name: Nepal Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_246
+    name: Nepal Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_247
+    name: Nepal Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_248
+    name: Nepal Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_249
+    name: Nepal Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_250
+    name: Nepal Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_251
+    name: Nepal Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_np_252
+    name: Nepal Skill 252
+    status: ACTIVE_SCAFFOLD
