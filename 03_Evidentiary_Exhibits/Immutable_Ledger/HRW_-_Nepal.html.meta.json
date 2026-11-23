@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/nepal",
+  "final_url": "https://www.hrw.org/asia/nepal",
+  "title": "HRW - Nepal",
+  "fetched_at": "2026-11-23T15:26:11.452758Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 203953,
+  "sha256": "d92ea59b213e479a28b1dd893b7481f047a2921b05332b5ed11b2350804380a1",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
